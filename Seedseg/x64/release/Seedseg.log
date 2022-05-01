@@ -1,0 +1,12 @@
+﻿  Reading Qt configuration (D:/program/Qt5.13.2/5.13.2/msvc2017_64/bin/qmake)
+  uic Seedseg.ui
+  rcc Seedseg.qrc
+  moc Seedseg.h
+   RCC: Warning: No resources in 'E:\partime\Seedseg\Seedseg\Seedseg.qrc'.
+  althorighm.cpp
+  Seedseg.cpp
+  main.cpp
+  正在生成代码...
+  qrc_Seedseg.cpp
+  moc_Seedseg.cpp
+  Seedseg.vcxproj -> E:\partime\Seedseg\x64\release\Seedseg.exe
